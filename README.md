@@ -23,7 +23,7 @@ The Work Day Scheduler application fulfills the following acceptance criteria:
 ### Viewing the homepage 
 
 In order to access the Workday Scheduler application, navigate to the following link: 
- [Workday scheduler page](). 
+ [Workday scheduler page](https://jemimasiddiqui.github.io/Work-Day-Scheduler-by-Jemima-Siddiqui/Develop/index.html). 
 
 ### Downloading Visual Studio Code 
 
