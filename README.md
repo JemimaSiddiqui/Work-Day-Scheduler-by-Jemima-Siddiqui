@@ -6,7 +6,7 @@ Homework Assignment for Week 5 by Jemima Siddiqui.
 
 The Work Day Scheduler application consists of a daily planner that can be filled out by a user to keep track of hourly-based tasks. By using this application, the user is able to save events for each hour of the work day (9am-5pm). This application runs in the browser and the features are dynamically updated by HTML and CSS powered by jQuery. 
 
-![Workday scheduler application page.](./Assets/)
+![Workday scheduler application page.](./Asset/application-homepage.png)
 
 ## Acceptance Criteria
 
@@ -31,7 +31,7 @@ In order to access the Workday Scheduler application, navigate to the following 
 
 ### Pulling the repository from Git 
 
-If you would like to acess the source code (HTML, CSS and JavaScript files), please navigate to the following public Github repository [Github Repository](). 
+If you would like to acess the source code (HTML, CSS and JavaScript files), please navigate to the following public Github repository [Github Repository](https://github.com/JemimaSiddiqui/Work-Day-Scheduler-by-Jemima-Siddiqui.git). 
 
 * Clone the repository to your local desktop using the following steps:
 
@@ -62,19 +62,19 @@ This section contains instructions on how to use the Work Day Scheduler Applicat
 
 The main page of the application consists of a daily planner with an input field and a save button corresponding to each hour.  
 
-![Application page](./Assets/)
+![Application page](./Asset/planner-table.png)
 
 2. Input field and save button:
 
 Once users click on an input field corresponding to a specific hour, they can enter a text into the field and save the text. Saving the text would allow the text to persist even after the page is refreshed. 
 
-![Generate button](./Assets/)
+![Input fields](./Asset/time-row.png)
 
 3. Row colour coding:
 
 The rows are colour coded based on the current hour in the user's timezone. Input fields corresponding to past, present and future are coloured grey, red and green respectively.  
 
-![Row colour coding](./Assets/)
+![Row colour coding](./Asset/past-pres-future.png)
 
 ## Credits
 
